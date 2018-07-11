@@ -3,3 +3,4 @@
 testing particular branch ! test !
 testing branch commit build with echo environment variables !
 now testing GIT variables!
+Testing today ! Wednesday...
